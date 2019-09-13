@@ -42,6 +42,6 @@ COMMUNICATION:
 
 Adjustable minimap and point material
 
-=========================================================================================
+====================================================
 
 You are free to use this project in your commercial games as long as you mention the author of the original version of this system and its following contributors. Selling the system itself is not allowed. Selling any kind of a similar system built upon this system is not allowed. The system may still remain monetized on the official Unreal Engine marketplace by the original author (for the people willing to support the project despite it being free already). Please keep in mind that for the people willing to support the project buying it on the UE marketplace, the Unreal Engine marketplace terms of use still apply.
