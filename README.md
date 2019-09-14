@@ -42,7 +42,7 @@ COMMUNICATION:
 
 Adjustable minimap and point material
 
-====================================================
+
 Uploaded in UE version 4.19, works fine with most recent engine versions as well.
 
 ==
